@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alkadhumi</h1>
+<h1 align="center">Hi 👋, I'm Alkadhumi 👨‍💻</h1>
 <h3 align="center">A passionate self-taught frontend developer from Iraq</h3>
 <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 - 👋 Hi, I'm Abdul-a'ala Alkadhumi
@@ -6,8 +6,17 @@
 - 💬 Ask me about Web development
 - 📫 How to reach me: https://alkadhumi.netlify.app
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+
+  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FjuliengDev&countColor=%2336bcf7" />
+  </br>
+  </br>
+  </br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+On+My+Github!;" />
+</div>
+
+<h2 align="center">🌟 Connect with me:</h2>
+<p align="center">
 <a href="https://dev.to/alkadhumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alkadhumi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alkadhumi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkadhumi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alkadhumi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alkadhumi" height="30" width="40" /></a>
@@ -16,8 +25,8 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="center">🌟 Languages and Tools:</h2>
+<p align="center"> 
 </a> <a href="https://www.html.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://www.css.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
